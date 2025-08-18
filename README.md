@@ -14,24 +14,18 @@
   </p>
 </div>
 
----
-
 ## 📌 About the Project
 
 This app was originally developed by [Felipe Aguiar](https://github.com/felipeAguiarCode).  
 This version is a **modified fork** with new features and improvements developed by [Ismael Dias](https://github.com/ismaelldiias).
 
----
-
-## Preview
+## 👀 Preview
 
 <div align="center">
   <a href="#">
       <img src=".github/assets/preview.gif" width="200" alt="preview" />
   </a>
 </div>
-
----
 
 ## 🔥 Features
 
@@ -44,14 +38,10 @@ This version is a **modified fork** with new features and improvements developed
   - At least **1 special character**
 - [x] **(New)** User can choose password length between **4 and 20 characters**
 
----
-
 ## 🛠 Technologies
 
 - [React Native](https://reactnative.dev/)
 - [Expo](https://docs.expo.dev/)
-
----
 
 ## 🚀 Building
 
