@@ -16,8 +16,11 @@
 
 ## 📌 About the Project
 
-This app was originally developed by [Felipe Aguiar](https://github.com/felipeAguiarCode).  
-This version is a **modified fork** with new features and improvements developed by [Ismael Dias](https://github.com/ismaelldiias).
+This app was originally created as part of the **React Native Developer Training** by [Digital Innovation One (DIO)](https://www.dio.me/).
+
+The instructor [Felipe Aguiar](https://github.com/felipeAguiarCode) proposed the challenge **"Batman Password Sequencer with React Native"**, a fun project designed for the fictional company **Wayne Enterprises**.
+
+This repository is a **fork** of the instructor's project, where I implemented improvements and additional features.
 
 ## 👀 Preview
 
